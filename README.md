@@ -58,7 +58,7 @@ Dataset used (included in this repo):
 
 ## 🌐 Live Project Link 
 
-Live Demo: Add your Streamlit Cloud / hosting URL here.
+Live Demo: 
 
 ---
 
